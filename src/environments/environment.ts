@@ -5,11 +5,11 @@
 export const environment = {
   production: false,
   endpoint: 'http://localhost:3000/api',
-  discordInvite: 'https://discord.gg/24tycau',
-  githubURL: 'https://github.com/theADAMJR/6PG',
+  discordInvite: 'https://discord.gg/D9s8h4K5rp',
+  githubURL: 'https://github.com/Seecomp/6PG-Dashboard',
   version: 'v0.0.1a',
   test: {
-    botId: '685862664223850497'
+    botId: '793946912150781982'
   }
 };
 
