@@ -25,7 +25,7 @@ export class CommandsComponent implements OnInit {
 
     this.commands = this.displayedCommands = this.service.commands;
 
-    document.title = '6PG - Commands';
+    document.title = 'BotBoat - Commands';
 
     this.setModule('autoMod');
   }
