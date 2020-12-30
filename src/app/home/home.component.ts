@@ -10,6 +10,6 @@ export class HomeComponent {
   version = environment.version;
 
   constructor() {
-    document.title = '6PG - Discord Bot';
+    document.title = 'BotBoat - Discord Bot Maker';
   }
 }
